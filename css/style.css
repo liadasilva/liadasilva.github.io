@@ -1,0 +1,57 @@
+body{
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+nav{
+  padding:10px;
+  background-color: #829FD9;
+  text-align: justify;
+}
+nav a{
+  color: #0C0910;
+  font-weight: bold;
+}
+nav img{
+  width:50px;
+}
+header{
+  background-color: #DAC9C1;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+header h1{
+  color: #0C0910;
+}
+header img{
+  max-width: 100%;
+  border-radius: 200px;
+  width: 250px;
+  border: 10px solid #DAB655;
+}
+main{
+  color: #0C0910;
+  padding: 10px;
+  background-color: #726765;
+}
+
+main img{
+  max-width: 100%;
+  border: 10px solid #C23C5E;
+}
+main a{
+  color: #0C0910;
+  font-weight: bold;
+}
+main h2{
+  text-align: center;
+}
+footer{
+  padding:10px;
+  background-color: #829FD9;
+}
+
+footer a{
+  color: #DAB655
+}
