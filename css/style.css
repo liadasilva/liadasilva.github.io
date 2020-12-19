@@ -15,7 +15,7 @@ nav img{
   width:50px;
 }
 header{
-  background-color: #DAC9C1;
+  background-color:#FFFFFF;
   text-align: center;
   padding-top: 50px;
   padding-bottom: 50px;
@@ -33,12 +33,12 @@ header img{
 main{
   color: #0C0910;
   padding: 10px;
-  background-color: #726765;
+  background-color: #FF822E;
 }
 
 main img{
   max-width: 100%;
-  border: 10px solid #C23C5E;
+  border: 10px solid #EF5411;
 }
 main a{
   color: #0C0910;
