@@ -40,6 +40,9 @@ main img{
   max-width: 100%;
   border: 10px solid #EF5411;
 }
+main figure figcaption{
+  text-align: center;;
+}
 main a{
   color: #0C0910;
   font-weight: bold;
